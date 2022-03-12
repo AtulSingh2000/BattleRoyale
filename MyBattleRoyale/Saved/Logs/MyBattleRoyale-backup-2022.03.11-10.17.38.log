@@ -1,0 +1,1304 @@
+﻿Log file open, 03/11/22 14:16:33
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyBattleRoyale
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.816700
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:30, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.113s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: AMD Ryzen 7 3700X 8-Core Processor             , GPU: NVIDIA GeForce GTX 1660 SUPER
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.03.11-08.46.34:102][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.03.11-08.46.34:102][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.03.11-08.46.34:103][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/UnrealProject/MyBattleRoyale/Saved/Config/Windows/Engine.ini]
+[2022.03.11-08.46.34:103][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.03.11-08.46.34:103][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/UnrealProject/MyBattleRoyale/Saved/Config/Windows/Engine.ini]
+[2022.03.11-08.46.34:103][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/UnrealProject/MyBattleRoyale/Saved/Config/Windows/Engine.ini]
+[2022.03.11-08.46.34:103][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.03.11-08.46.34:103][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.03.11-08.46.34:103][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.03.11-08.46.34:103][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.03.11-08.46.34:103][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.03.11-08.46.34:103][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.03.11-08.46.34:103][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.03.11-08.46.34:103][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.03.11-08.46.34:103][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.03.11-08.46.34:103][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.03.11-08.46.34:103][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.03.11-08.46.34:103][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.03.11-08.46.34:103][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.03.11-08.46.34:103][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/UnrealProject/MyBattleRoyale/Saved/Config/Windows/Engine.ini]
+[2022.03.11-08.46.34:103][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.03.11-08.46.34:103][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.03.11-08.46.34:103][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.03.11-08.46.34:103][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.03.11-08.46.34:103][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.03.11-08.46.34:103][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.03.11-08.46.34:103][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2022.03.11-08.46.34:103][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.03.11-08.46.34:103][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.03.11-08.46.34:103][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2022.03.11-08.46.34:103][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.03.11-08.46.34:103][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.03.11-08.46.34:103][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.03.11-08.46.34:103][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.03.11-08.46.34:103][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/UnrealProject/MyBattleRoyale/Saved/Config/Windows/Engine.ini]
+[2022.03.11-08.46.34:103][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/UnrealProject/MyBattleRoyale/Saved/Config/Windows/Engine.ini]
+[2022.03.11-08.46.34:107][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/UnrealProject/MyBattleRoyale/Saved/Config/Windows/Scalability.ini]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/UnrealProject/MyBattleRoyale/Saved/Config/Windows/Scalability.ini]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/UnrealProject/MyBattleRoyale/Saved/Config/Windows/Scalability.ini]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/UnrealProject/MyBattleRoyale/Saved/Config/Windows/Scalability.ini]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/UnrealProject/MyBattleRoyale/Saved/Config/Windows/Scalability.ini]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/UnrealProject/MyBattleRoyale/Saved/Config/Windows/Scalability.ini]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/UnrealProject/MyBattleRoyale/Saved/Config/Windows/Scalability.ini]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.11-08.46.34:107][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.11-08.46.34:108][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.11-08.46.34:108][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.03.11-08.46.34:123][  0]LogHAL: Display: Platform has ~ 16 GB [17093173248 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.03.11-08.46.34:124][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2022.03.11-08.46.34:124][  0]LogInit: Going up to parent DeviceProfile []
+[2022.03.11-08.46.34:124][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/UnrealProject/MyBattleRoyale/Saved/Config/Windows/Scalability.ini]
+[2022.03.11-08.46.34:124][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.11-08.46.34:124][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.11-08.46.34:124][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/UnrealProject/MyBattleRoyale/Saved/Config/Windows/Scalability.ini]
+[2022.03.11-08.46.34:124][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.11-08.46.34:124][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/UnrealProject/MyBattleRoyale/Saved/Config/Windows/Scalability.ini]
+[2022.03.11-08.46.34:124][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.11-08.46.34:124][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.11-08.46.34:124][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.11-08.46.34:124][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.11-08.46.34:124][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.11-08.46.34:124][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.11-08.46.34:124][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.11-08.46.34:124][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.11-08.46.34:124][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.11-08.46.34:124][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.11-08.46.34:124][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.11-08.46.34:124][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.11-08.46.34:124][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.11-08.46.34:124][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/UnrealProject/MyBattleRoyale/Saved/Config/Windows/Scalability.ini]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/UnrealProject/MyBattleRoyale/Saved/Config/Windows/Scalability.ini]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/UnrealProject/MyBattleRoyale/Saved/Config/Windows/Scalability.ini]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/UnrealProject/MyBattleRoyale/Saved/Config/Windows/Scalability.ini]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.11-08.46.34:125][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.03.11-08.46.34:128][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.03.11-08.46.34:128][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/UnrealProject/MyBattleRoyale/Saved/Config/Windows/Engine.ini]
+[2022.03.11-08.46.34:129][  0]LogInit: Computer: DESKTOP-SEA1AMH
+[2022.03.11-08.46.34:129][  0]LogInit: User: Dobby
+[2022.03.11-08.46.34:129][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.03.11-08.46.34:129][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.03.11-08.46.34:129][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.03.11-08.46.34:129][  0]LogMemory: Platform Memory Stats for Windows
+[2022.03.11-08.46.34:129][  0]LogMemory: Process Physical Memory: 104.70 MB used, 104.71 MB peak
+[2022.03.11-08.46.34:129][  0]LogMemory: Process Virtual Memory: 92.75 MB used, 92.75 MB peak
+[2022.03.11-08.46.34:129][  0]LogMemory: Physical Memory: 6474.21 MB used,  9827.11 MB free, 16301.32 MB total
+[2022.03.11-08.46.34:129][  0]LogMemory: Virtual Memory: 4671.16 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2022.03.11-08.46.34:310][  0]LogInit: Using OS detected language (en-US).
+[2022.03.11-08.46.34:310][  0]LogInit: Using OS detected locale (en-IN).
+[2022.03.11-08.46.34:312][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.03.11-08.46.34:737][  0]LogStreaming: Display: Took  0.428s to InitEngineTextLocalization.
+[2022.03.11-08.46.34:738][  0]LogInit: Setting process to per monitor DPI aware
+[2022.03.11-08.46.34:811][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.03.11-08.46.34:811][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.03.11-08.46.36:431][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2022.03.11-08.46.36:431][  0]LogD3D11RHI: D3D11 adapters:
+[2022.03.11-08.46.36:537][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1660 SUPER' (Feature Level 11_0)
+[2022.03.11-08.46.36:537][  0]LogD3D11RHI:       5992/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.03.11-08.46.36:539][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.03.11-08.46.36:539][  0]LogD3D11RHI:       0/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.03.11-08.46.36:539][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.03.11-08.46.36:546][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.03.11-08.46.36:546][  0]LogD3D11RHI:     GPU DeviceId: 0x21c4 (for the marketing name, search the web for "GPU Device Id")
+[2022.03.11-08.46.36:546][  0]LogWindows: EnumDisplayDevices:
+[2022.03.11-08.46.36:546][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1660 SUPER' (P:1 D:1)
+[2022.03.11-08.46.36:547][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0)
+[2022.03.11-08.46.36:547][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0)
+[2022.03.11-08.46.36:547][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0)
+[2022.03.11-08.46.36:547][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.03.11-08.46.36:547][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1660 SUPER
+[2022.03.11-08.46.36:547][  0]LogD3D11RHI:   Driver Version: 511.23 (internal:30.0.15.1123, unified:511.23)
+[2022.03.11-08.46.36:547][  0]LogD3D11RHI:      Driver Date: 1-10-2022
+[2022.03.11-08.46.36:547][  0]LogRHI: Texture pool is 4194 MB (70% of 5992 MB)
+[2022.03.11-08.46.36:606][  0]LogD3D11RHI: Async texture creation enabled
+[2022.03.11-08.46.36:639][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.03.11-08.46.37:693][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2022.03.11-08.46.37:716][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2022.03.11-08.46.37:739][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2022.03.11-08.46.37:762][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2022.03.11-08.46.37:789][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2022.03.11-08.46.37:814][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2022.03.11-08.46.37:838][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2022.03.11-08.46.37:863][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2022.03.11-08.46.37:882][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2022.03.11-08.46.37:966][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.03.11-08.46.37:966][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.03.11-08.46.37:966][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.03.11-08.46.37:966][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.03.11-08.46.37:966][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.03.11-08.46.37:966][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.03.11-08.46.37:966][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.03.11-08.46.37:966][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.03.11-08.46.37:966][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.03.11-08.46.37:966][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.03.11-08.46.37:966][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.03.11-08.46.37:966][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.03.11-08.46.37:966][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.03.11-08.46.37:966][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.03.11-08.46.37:966][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.03.11-08.46.37:966][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.03.11-08.46.37:966][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.03.11-08.46.37:966][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.03.11-08.46.37:980][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2022.03.11-08.46.38:081][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2022.03.11-08.46.38:081][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2022.03.11-08.46.38:112][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2022.03.11-08.46.38:112][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2022.03.11-08.46.38:135][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2022.03.11-08.46.38:158][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2022.03.11-08.46.38:180][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2022.03.11-08.46.38:211][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2022.03.11-08.46.38:265][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2022.03.11-08.46.38:265][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2022.03.11-08.46.38:265][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.03.11-08.46.38:620][  0]LogShaderCompilers: Guid format shader working directory is 5 characters bigger than the processId version (../../../../UnrealProject/MyBattleRoyale/Intermediate/Shaders/WorkingDirectory/13220/).
+[2022.03.11-08.46.38:620][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/atulk/AppData/Local/Temp/UnrealShaderWorkingDir/632D374541443B874C3BF69481BD1899/'.
+[2022.03.11-08.46.38:622][  0]LogXGEController: Cleaning working directory: C:/Users/atulk/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2022.03.11-08.46.38:622][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.03.11-08.46.38:623][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.03.11-08.46.38:623][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.03.11-08.46.39:915][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.03.11-08.46.39:982][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/atulk/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2022.03.11-08.46.39:982][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/atulk/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2022.03.11-08.46.39:982][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../UnrealProject/MyBattleRoyale/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.03.11-08.46.39:982][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.03.11-08.46.39:982][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../UnrealProject/MyBattleRoyale/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.11-08.46.39:982][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.03.11-08.46.40:004][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.03.11-08.46.40:004][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.11-08.46.40:004][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.03.11-08.46.40:017][  0]LogDerivedDataCache: Using Local data cache path C:/Users/atulk/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.03.11-08.46.40:017][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.03.11-08.46.40:017][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.03.11-08.46.40:037][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2022.03.11-08.46.40:042][  0]LogSlate: Using FreeType 2.6.0
+[2022.03.11-08.46.40:052][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.03.11-08.46.40:187][  0]LogAssetRegistry: FAssetRegistry took 0.0336 seconds to start up
+[2022.03.11-08.46.40:548][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.11-08.46.40:905][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2022.03.11-08.46.40:941][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2022.03.11-08.46.40:941][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.03.11-08.46.40:942][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.03.11-08.46.40:942][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2022.03.11-08.46.40:981][  0]LogNetVersion: MyBattleRoyale 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1767603964)
+[2022.03.11-08.46.41:922][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.080178 seconds
+[2022.03.11-08.46.41:928][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2022.03.11-08.46.41:929][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2022.03.11-08.46.41:929][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.03.11-08.46.43:935][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.03.11-08.46.43:965][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.03.11-08.46.44:796][  0]SourceControl: Source control is disabled
+[2022.03.11-08.46.44:796][  0]SourceControl: Source control is disabled
+[2022.03.11-08.46.44:819][  0]SourceControl: Source control is disabled
+[2022.03.11-08.46.44:836][  0]SourceControl: Source control is disabled
+[2022.03.11-08.46.45:533][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.03.11-08.46.45:715][  0]LogOcInput: OculusInput pre-init called
+[2022.03.11-08.46.45:943][  0]LogEngine: Initializing Engine...
+[2022.03.11-08.46.45:944][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2022.03.11-08.46.45:946][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2022.03.11-08.46.45:946][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2022.03.11-08.46.45:946][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2022.03.11-08.46.45:946][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2022.03.11-08.46.46:231][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.03.11-08.46.46:269][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.03.11-08.46.46:304][  0]LogInit: XAudio2 using 'Headset Earphone (Jabra EVOLVE LINK MS)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2022.03.11-08.46.46:323][  0]LogInit: FAudioDevice initialized.
+[2022.03.11-08.46.46:323][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.03.11-08.46.46:365][  0]LogDerivedDataCache: Saved boot cache 0.04s 71MB C:/Users/atulk/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2022.03.11-08.46.46:365][  0]LogInit: Texture streaming: Enabled
+[2022.03.11-08.46.46:428][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.03.11-08.46.46:454][  0]LogInit: Transaction tracking system initialized
+[2022.03.11-08.46.46:545][  0]BlueprintLog: New page: Editor Load
+[2022.03.11-08.46.46:931][  0]LocalizationService: Localization service is disabled
+[2022.03.11-08.46.47:668][  0]LogFileCache: Scanning file cache for directory 'C:/UnrealProject/MyBattleRoyale/Content/' took 0.02s
+[2022.03.11-08.46.47:668][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2022.03.11-08.46.47:668][  0]LogCook: Display: Mobile HDR setting 1
+[2022.03.11-08.46.47:668][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2022.03.11-08.46.47:668][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2022.03.11-08.46.47:668][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2022.03.11-08.46.47:668][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2022.03.11-08.46.47:669][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2022.03.11-08.46.48:273][  0]SourceControl: Source control is disabled
+[2022.03.11-08.46.48:274][  0]Cmd: MAP LOAD FILE="../../../../UnrealProject/MyBattleRoyale/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.11-08.46.48:275][  0]LightingResults: New page: Lighting Build
+[2022.03.11-08.46.48:281][  0]MapCheck: New page: Map Check
+[2022.03.11-08.46.48:281][  0]LightingResults: New page: Lighting Build
+[2022.03.11-08.46.49:023][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.11-08.46.49:047][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.11-08.46.49:074][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.11-08.46.49:074][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.187ms to complete.
+[2022.03.11-08.46.49:074][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.801
+[2022.03.11-08.46.49:189][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-08.46.49:195][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-08.46.49:200][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-08.46.49:206][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-08.46.49:230][  0]LogCollectionManager: Loaded 0 collections in 0.001464 seconds
+[2022.03.11-08.46.49:271][  0]LogFileCache: Scanning file cache for directory 'C:/UnrealProject/MyBattleRoyale/Saved/Collections/' took 0.01s
+[2022.03.11-08.46.49:271][  0]LogFileCache: Scanning file cache for directory 'C:/UnrealProject/MyBattleRoyale/Content/Developers/Dobby/Collections/' took 0.01s
+[2022.03.11-08.46.49:271][  0]LogFileCache: Scanning file cache for directory 'C:/UnrealProject/MyBattleRoyale/Content/Collections/' took 0.01s
+[2022.03.11-08.46.49:271][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2022.03.11-08.46.49:279][  0]LogContentBrowser: Native class hierarchy populated in 0.0078 seconds. Added 2651 classes and 620 folders.
+[2022.03.11-08.46.49:285][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.03.11-08.46.49:289][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.03.11-08.46.49:296][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.03.11-08.46.49:310][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.03.11-08.46.49:315][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.03.11-08.46.49:319][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.03.11-08.46.49:323][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.03.11-08.46.49:327][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.03.11-08.46.49:331][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.03.11-08.46.49:335][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.03.11-08.46.49:340][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.03.11-08.46.49:345][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.03.11-08.46.49:348][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.03.11-08.46.49:352][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.03.11-08.46.49:356][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.03.11-08.46.49:359][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.03.11-08.46.49:362][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.03.11-08.46.49:379][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.03.11-08.46.49:383][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.03.11-08.46.49:386][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.03.11-08.46.49:390][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.03.11-08.46.49:410][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.03.11-08.46.49:414][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.03.11-08.46.49:418][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.03.11-08.46.49:422][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.03.11-08.46.49:426][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.03.11-08.46.49:429][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.03.11-08.46.49:547][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.03.11-08.46.49:566][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2022.03.11-08.46.49:608][  0]LogSlate: Took 0.005847 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.03.11-08.46.49:616][  0]LogSlate: Took 0.005347 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.03.11-08.46.49:626][  0]LogSlate: Took 0.005049 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.03.11-08.46.49:738][  0]LogRenderer: Reallocating scene render targets to support 1616x808 Format 10 NumSamples 1 (Frame:1).
+[2022.03.11-08.46.49:840][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.03.11-08.46.49:871][  0]LogSlate: Window 'Tutorials' being destroyed
+[2022.03.11-08.46.49:916][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.03.11-08.46.49:916][  0]LogLoad: (Engine Initialization) Total time: 20.80 seconds
+[2022.03.11-08.46.49:916][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.03.11-08.46.49:986][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.03.11-08.46.50:063][  1]LogAssetRegistry: Asset discovery search completed in 9.8995 seconds
+[2022.03.11-08.46.50:065][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2022.03.11-08.46.50:065][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000053 seconds (updated 0 objects)
+[2022.03.11-08.47.52:334][395]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Sniper_Rifle_B)
+[2022.03.11-08.47.53:175][480]Cmd: DELETE
+[2022.03.11-08.47.53:175][480]Cmd: ACTOR DELETE
+[2022.03.11-08.47.53:181][480]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2022.03.11-08.47.53:205][480]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2022.03.11-08.48.18:711][182]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.03.11-08.48.29:502][945]LogSlate: Took 0.004316 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.11-08.48.29:508][945]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2022.03.11-08.48.29:908][945]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 117 classes and 0 folders.
+[2022.03.11-08.48.30:520][945]LogSlate: Took 0.003210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.03.11-08.48.30:691][946]LogSlate: Took 0.003769 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.03.11-08.48.32:627][100]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2022.03.11-08.49.23:664][141]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.03.11-08.49.23:693][141]LogBlueprint: Error: [Compiler FirstPersonCharacter] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2022.03.11-08.49.23:693][141]LogBlueprint: Error: [Compiler FirstPersonCharacter] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2022.03.11-08.49.23:864][141]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [0174.75] Compile of FirstPersonCharacter failed. 2 Fatal Issue(s) 0 Warning(s) [in 199 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2022.03.11-08.50.10:076][942]LogEditorTransaction: Undo Create Reroute Node
+[2022.03.11-08.50.10:925][ 32]LogEditorTransaction: Undo Create Pin Link
+[2022.03.11-08.50.13:422][305]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.03.11-08.50.13:448][305]LogBlueprint: Error: [Compiler FirstPersonCharacter] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2022.03.11-08.50.13:611][305]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [0224.50] Compile of FirstPersonCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 188 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2022.03.11-08.50.34:676][355]LogSlate: Window 'Delete Variable' being destroyed
+[2022.03.11-08.50.55:955][231]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.03.11-08.50.56:736][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="../../../../UnrealProject/MyBattleRoyale/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2022.03.11-08.50.56:781][289]LogSavePackage: Moving '../../../../UnrealProject/MyBattleRoyale/Saved/FirstPersonCharacterD295FFF8474485607BB5368162C7B6FD.tmp' to '../../../../UnrealProject/MyBattleRoyale/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2022.03.11-08.51.47:504][413]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.03.11-08.51.47:962][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="../../../../UnrealProject/MyBattleRoyale/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2022.03.11-08.51.48:002][435]LogSavePackage: Moving '../../../../UnrealProject/MyBattleRoyale/Saved/FirstPersonCharacterC8D409394549EC3574314087267BA74E.tmp' to '../../../../UnrealProject/MyBattleRoyale/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2022.03.11-08.51.59:182][253]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.03.11-08.51.59:751][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="../../../../UnrealProject/MyBattleRoyale/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2022.03.11-08.51.59:792][289]LogSavePackage: Moving '../../../../UnrealProject/MyBattleRoyale/Saved/FirstPersonCharacterD99039A04E317B10C03EB7BDAA437C4F.tmp' to '../../../../UnrealProject/MyBattleRoyale/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2022.03.11-08.52.22:905][592]LogRenderer: Reallocating scene render targets to support 1616x1000 Format 10 NumSamples 1 (Frame:1).
+[2022.03.11-08.52.33:562][788]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.03.11-08.53.39:283][192]LogTexture: Display: Building textures: T_ML_Rubber_Blue_01_D (DXT1, 512X512)
+[2022.03.11-08.53.39:283][192]LogTexture: Display: Building textures: T_ML_Aluminum01 (DXT1, 512X512)
+[2022.03.11-08.53.39:283][192]LogTexture: Display: Building textures: UE4_Mannequin_occlusion_Mobile (DXT1, 512X512)
+[2022.03.11-08.53.39:283][192]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2022.03.11-08.53.39:353][192]LogTexture: Display: Building textures: UE4Man_Logo_N (BC5, 512X512)
+[2022.03.11-08.53.39:353][192]LogTexture: Display: Building textures: UE4_Mannequin_MAT_MASKA (AutoDXT, 1024X1024)
+[2022.03.11-08.53.39:353][192]LogTexture: Display: Building textures: T_ML_Aluminum01_N (BC5, 512X512)
+[2022.03.11-08.53.39:353][192]LogTexture: Display: Building textures: T_ML_Rubber_Blue_01_N (BC5, 512X512)
+[2022.03.11-08.53.39:353][192]LogSkeletalMesh: Built Skeletal Mesh [0.07s] /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin
+[2022.03.11-08.53.39:514][192]LogTexture: Display: Building textures: UE4_Mannequin__normals (BC5, 2048X2048)
+[2022.03.11-08.53.39:514][192]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2022.03.11-08.53.39:588][192]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2022.03.11-08.53.39:635][192]LogShaderCompilers: Display: Shaders left to compile 128
+[2022.03.11-08.53.39:635][192]LogShaderCompilers: Display: Shaders left to compile 118
+[2022.03.11-08.53.39:635][192]LogShaderCompilers: Display: Shaders left to compile 108
+[2022.03.11-08.53.39:635][192]LogShaderCompilers: Display: Shaders left to compile 98
+[2022.03.11-08.53.39:635][192]LogShaderCompilers: Display: Shaders left to compile 88
+[2022.03.11-08.53.39:635][192]LogShaderCompilers: Display: Shaders left to compile 78
+[2022.03.11-08.53.39:635][192]LogShaderCompilers: Display: Shaders left to compile 68
+[2022.03.11-08.53.39:635][192]LogShaderCompilers: Display: Shaders left to compile 58
+[2022.03.11-08.53.39:635][192]LogShaderCompilers: Display: Shaders left to compile 48
+[2022.03.11-08.53.39:635][192]LogShaderCompilers: Display: Shaders left to compile 38
+[2022.03.11-08.53.39:635][192]LogShaderCompilers: Display: Shaders left to compile 28
+[2022.03.11-08.53.39:635][192]LogShaderCompilers: Display: Shaders left to compile 18
+[2022.03.11-08.53.41:283][299]LogShaderCompilers: Display: Shaders left to compile 136
+[2022.03.11-08.53.41:375][303]LogShaderCompilers: Display: Shaders left to compile 126
+[2022.03.11-08.53.41:504][307]LogShaderCompilers: Display: Shaders left to compile 116
+[2022.03.11-08.53.41:547][309]LogShaderCompilers: Display: Shaders left to compile 106
+[2022.03.11-08.53.41:588][311]LogShaderCompilers: Display: Shaders left to compile 96
+[2022.03.11-08.53.41:633][313]LogShaderCompilers: Display: Shaders left to compile 86
+[2022.03.11-08.53.41:662][314]LogShaderCompilers: Display: Shaders left to compile 76
+[2022.03.11-08.53.41:706][316]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.03.11-08.53.42:084][331]LogShaderCompilers: Display: Shaders left to compile 66
+[2022.03.11-08.53.42:378][347]LogShaderCompilers: Display: Shaders left to compile 56
+[2022.03.11-08.53.42:694][364]LogShaderCompilers: Display: Shaders left to compile 46
+[2022.03.11-08.53.42:733][366]LogShaderCompilers: Display: Shaders left to compile 36
+[2022.03.11-08.53.42:753][367]LogShaderCompilers: Display: Shaders left to compile 26
+[2022.03.11-08.53.42:910][375]LogShaderCompilers: Display: Shaders left to compile 16
+[2022.03.11-08.53.42:975][379]LogShaderCompilers: Display: Shaders left to compile 6
+[2022.03.11-08.53.59:546][719]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.03.11-08.54.13:200][303]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.03.11-08.54.30:942][915]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.03.11-08.54.31:065][915]LogBlueprint: Warning: [Compiler Ue4ASP_Character] InputAction Event references unknown Action 'Crouch' for  InputAction Crouch
+[2022.03.11-08.54.31:072][915]LogBlueprint: Warning: [Compiler Ue4ASP_Character] [0481.96] Compile of Ue4ASP_Character successful, but with 1 Warning(s) [in 28 ms] (/Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character)
+[2022.03.11-08.54.31:078][915]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Idle_Rifle_Hip.Crouch_Idle_Rifle_Hip
+[2022.03.11-08.54.31:079][915]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_Idle_Rifle_Hip.Crouch_Idle_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2022.03.11-08.54.31:081][915]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Rifle_Hip.Idle_Rifle_Hip
+[2022.03.11-08.54.31:081][915]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Idle_Rifle_Hip.Idle_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_30) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2022.03.11-08.54.31:105][915]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Rt_Rifle.Jog_Rt_Rifle
+[2022.03.11-08.54.31:105][915]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Jog_Rt_Rifle.Jog_Rt_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_37) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2022.03.11-08.54.31:105][915]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.Crouch_Walk_Bwd_Rifle_Hip
+[2022.03.11-08.54.31:105][915]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.Crouch_Walk_Bwd_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_6) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2022.03.11-08.54.31:106][915]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.Crouch_Walk_Fwd_Rifle_Hip
+[2022.03.11-08.54.31:106][915]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.Crouch_Walk_Fwd_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_8) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2022.03.11-08.54.31:107][915]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.Crouch_Walk_Lt_Rifle_Hip
+[2022.03.11-08.54.31:107][915]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.Crouch_Walk_Lt_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_10) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2022.03.11-08.54.31:108][915]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Lt_Rifle.Jog_Lt_Rifle
+[2022.03.11-08.54.31:108][915]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Jog_Lt_Rifle.Jog_Lt_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2022.03.11-08.54.31:108][915]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Fwd_Rifle.Jog_Fwd_Rifle
+[2022.03.11-08.54.31:108][915]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Jog_Fwd_Rifle.Jog_Fwd_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_35) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2022.03.11-08.54.31:109][915]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.Crouch_Walk_Rt_Rifle_Hip
+[2022.03.11-08.54.31:109][915]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.Crouch_Walk_Rt_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_12) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2022.03.11-08.54.31:110][915]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Bwd_Rifle.Jog_Bwd_Rifle
+[2022.03.11-08.54.31:110][915]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Jog_Bwd_Rifle.Jog_Bwd_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_34) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2022.03.11-08.54.31:111][915]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jump_From_Jog.Jump_From_Jog
+[2022.03.11-08.54.31:111][915]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Jump_From_Jog.Jump_From_Jog) using current/default (AnimCompress_BitwiseCompressOnly_38) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2022.03.11-08.54.31:112][915]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jump_From_Stand.Jump_From_Stand
+[2022.03.11-08.54.31:112][915]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Jump_From_Stand.Jump_From_Stand) using current/default (AnimCompress_BitwiseCompressOnly_39) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2022.03.11-08.55.01:765][557]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.03.11-08.55.05:557][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.03.11-08.55.10:826][638]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.03.11-08.55.12:022][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="../../../../UnrealProject/MyBattleRoyale/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2022.03.11-08.55.12:061][743]LogSavePackage: Moving '../../../../UnrealProject/MyBattleRoyale/Saved/FirstPersonCharacter33FB8CFC47D32DFF7BBCB3853B9B5972.tmp' to '../../../../UnrealProject/MyBattleRoyale/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2022.03.11-08.55.13:928][966]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.11-08.55.13:943][966]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2022.03.11-08.55.13:943][966]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.11-08.55.13:944][966]PIE: New page: PIE session: FirstPersonExampleMap (11-Mar-2022 7:55:13 pm)
+[2022.03.11-08.55.13:957][966]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.11-08.55.13:965][966]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008274s)
+[2022.03.11-08.55.13:966][966]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.11-08.55.13:966][966]LogPlayLevel: PIE: World Init took: (0.000767s)
+[2022.03.11-08.55.13:967][966]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.009622s)
+[2022.03.11-08.55.14:017][966]LogInit: XAudio2 using 'Headset Earphone (Jabra EVOLVE LINK MS)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2022.03.11-08.55.14:030][966]LogInit: FAudioDevice initialized.
+[2022.03.11-08.55.14:075][966]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.11-08.55.14:078][966]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.03.11-14.25.14
+[2022.03.11-08.55.14:081][966]LogWorld: Bringing up level for play took: 0.004561
+[2022.03.11-08.55.14:101][966]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2022.03.11-08.55.14:101][966]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.723
+[2022.03.11-08.55.14:101][966]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2022.03.11-08.55.47:458][965]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2022.03.11-08.55.47:458][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-08.55.47:490][965]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.11-08.55.47:490][965]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2022.03.11-08.55.47:520][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-08.55.47:565][967]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.03.11-08.56.24:729][ 17]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2022.03.11-08.56.25:736][125]Cmd: DELETE
+[2022.03.11-08.56.25:737][125]Cmd: ACTOR DELETE
+[2022.03.11-08.56.25:739][125]LogEditorActor: Deleted Actor: FirstPersonCharacter_C
+[2022.03.11-08.56.25:793][125]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2022.03.11-08.56.27:120][284]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.03.11-08.56.27:195][293]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.11-08.56.27:207][293]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2022.03.11-08.56.27:207][293]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.11-08.56.27:207][293]PIE: New page: PIE session: FirstPersonExampleMap (11-Mar-2022 7:56:27 pm)
+[2022.03.11-08.56.27:207][293]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.11-08.56.27:215][293]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008218s)
+[2022.03.11-08.56.27:216][293]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.11-08.56.27:216][293]LogPlayLevel: PIE: World Init took: (0.000612s)
+[2022.03.11-08.56.27:216][293]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.008949s)
+[2022.03.11-08.56.27:264][293]LogInit: XAudio2 using 'Headset Earphone (Jabra EVOLVE LINK MS)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2022.03.11-08.56.27:277][293]LogInit: FAudioDevice initialized.
+[2022.03.11-08.56.27:306][293]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.11-08.56.27:308][293]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.03.11-14.26.27
+[2022.03.11-08.56.27:309][293]LogWorld: Bringing up level for play took: 0.001920
+[2022.03.11-08.56.27:324][293]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.054
+[2022.03.11-08.56.27:324][293]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2022.03.11-08.56.35:942][325]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2022.03.11-08.56.35:942][325]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-08.56.35:979][325]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.11-08.56.35:979][325]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2022.03.11-08.56.36:006][325]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-08.56.36:049][327]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.03.11-08.56.37:271][473]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.03.11-08.56.42:464][ 96]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.11-08.56.42:471][ 96]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2022.03.11-08.56.42:471][ 96]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.11-08.56.42:471][ 96]PIE: New page: PIE session: FirstPersonExampleMap (11-Mar-2022 7:56:42 pm)
+[2022.03.11-08.56.42:471][ 96]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_1_FirstPersonExampleMap
+[2022.03.11-08.56.42:478][ 96]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007190s)
+[2022.03.11-08.56.42:479][ 96]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.11-08.56.42:479][ 96]LogPlayLevel: PIE: World Init took: (0.000708s)
+[2022.03.11-08.56.42:479][ 96]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_1_FirstPersonExampleMap.FirstPersonExampleMap (0.008178s)
+[2022.03.11-08.56.42:526][ 96]LogInit: XAudio2 using 'Headset Earphone (Jabra EVOLVE LINK MS)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2022.03.11-08.56.42:538][ 96]LogInit: FAudioDevice initialized.
+[2022.03.11-08.56.42:567][ 96]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.11-08.56.42:569][ 96]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_1_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.03.11-14.26.42
+[2022.03.11-08.56.42:569][ 96]LogWorld: Bringing up level for play took: 0.001896
+[2022.03.11-08.56.42:582][ 96]LogTemp: Display: ParseSettings for GameNetDriver
+[2022.03.11-08.56.42:583][ 96]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2022.03.11-08.56.42:583][ 96]LogTemp: Display: ParseSettings for GameNetDriver
+[2022.03.11-08.56.42:583][ 96]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2022.03.11-08.56.42:583][ 96]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2022.03.11-08.56.42:583][ 96]LogInit: WinSock: Socket queue 131072 / 131072
+[2022.03.11-08.56.42:583][ 96]LogInit: WinSock: I am DESKTOP-SEA1AMH (192.168.1.67:0)
+[2022.03.11-08.56.42:583][ 96]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.03.11-08.56.42:584][ 96]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2022.03.11-08.56.42:584][ 96]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_1_FirstPersonExampleMap -0.794
+[2022.03.11-08.56.42:587][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.03.11-08.56.42:591][ 96]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-08.56.42:622][ 96]LogNet: Browse: 127.0.0.1:17777//Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2022.03.11-08.56.42:622][ 96]LogTemp: Display: ParseSettings for GameNetDriver
+[2022.03.11-08.56.42:622][ 96]LogTemp: Display: ParseSettings for IpNetDriver_1
+[2022.03.11-08.56.42:622][ 96]LogTemp: Display: ParseSettings for PendingNetDriver
+[2022.03.11-08.56.42:622][ 96]LogInit: WinSock: Socket queue 32768 / 32768
+[2022.03.11-08.56.42:623][ 96]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.03.11-08.56.42:623][ 96]LogNet: Game client on port 17777, rate 10000
+[2022.03.11-08.56.42:625][ 96]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/FirstPersonExampleMap -0.753
+[2022.03.11-08.56.42:627][ 96]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2022.03.11-08.56.42:628][ 96]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:60671
+[2022.03.11-08.56.42:628][ 96]LogHandshake: SendConnectChallenge. Timestamp: 0.008333, Cookie: 145034233015013224185097004067198019228029129074148069248015
+[2022.03.11-08.56.42:634][ 96]LogHandshake: SendChallengeResponse. Timestamp: 0.008333, Cookie: 145034233015013224185097004067198019228029129074148069248015
+[2022.03.11-08.56.42:682][ 97]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:60671
+[2022.03.11-08.56.42:682][ 97]LogHandshake: SendChallengeAck. InCookie: 145034233015013224185097004067198019228029129074148069248015
+[2022.03.11-08.56.42:682][ 97]LogNet: Server accepting post-challenge connection from: 127.0.0.1:60671
+[2022.03.11-08.56.42:683][ 97]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.03.11-08.56.42:683][ 97]LogNet: NotifyAcceptedConnection: Name: FirstPersonExampleMap, TimeStamp: 03/11/22 14:26:42, [UNetConnection] RemoteAddr: 127.0.0.1:60671, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.03.11-08.56.42:683][ 97]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:60671, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.03.11-08.56.42:684][ 97]LogNetVersion: MyBattleRoyale 1.0.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2227440843)
+[2022.03.11-08.56.42:684][ 97]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.03.11-08.56.42:690][ 98]LogNet: NotifyAcceptingChannel Control 0 server World /Game/FirstPersonBP/Maps/UEDPIE_1_FirstPersonExampleMap.FirstPersonExampleMap: Accepted
+[2022.03.11-08.56.42:691][ 98]LogNet: Remote platform little endian=1
+[2022.03.11-08.56.42:691][ 98]LogNet: This platform little endian=1
+[2022.03.11-08.56.42:708][ 99]LogNet: Login request: /Game/FirstPersonBP/Maps/FirstPersonExampleMap?Name=DESKTOP-SEA1AMH-B0992E554B62B5BF6FABDDAF043AD9E9 userId: NULL:DESKTOP-SEA1AMH-B0992E554B62B5BF6FABDDAF043AD9E9 platform: NULL
+[2022.03.11-08.56.42:709][ 99]LogNet: Welcomed by server (Level: /Game/FirstPersonBP/Maps/UEDPIE_1_FirstPersonExampleMap, Game: /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C)
+[2022.03.11-08.56.42:709][ 99]LogLoad: LoadMap: 127.0.0.1:17777//Game/FirstPersonBP/Maps/UEDPIE_1_FirstPersonExampleMap?game=/Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C
+[2022.03.11-08.56.42:745][ 99]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.11-08.56.42:745][ 99]LogTemp: Display: ParseSettings for GameNetDriver
+[2022.03.11-08.56.42:747][ 99]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_2_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.03.11-14.26.42
+[2022.03.11-08.56.42:747][ 99]LogWorld: Bringing up level for play took: 0.001623
+[2022.03.11-08.56.42:747][ 99]LogLoad: Took 0.037690 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_1_FirstPersonExampleMap)
+[2022.03.11-08.56.42:759][100]LogNet: Client netspeed is 10000
+[2022.03.11-08.56.42:759][100]LogNet: Join request: /Game/FirstPersonBP/Maps/FirstPersonExampleMap?Name=DESKTOP-SEA1AMH-B0992E554B62B5BF6FABDDAF043AD9E9?SplitscreenCount=1
+[2022.03.11-08.56.42:759][100]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.03.11-08.56.42:762][100]LogNet: Join succeeded: DESKTOP-SEA1AMH-B099
+[2022.03.11-08.56.42:832][108]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.03.11-08.56.42:908][117]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.03.11-08.56.48:136][445]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.03.11-08.57.05:506][500]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2022.03.11-08.57.05:506][500]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2022.03.11-08.57.05:508][500]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:60671, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-SEA1AMH-B0992E554B62B5BF6FABDDAF043AD9E9
+[2022.03.11-08.57.05:508][500]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:60671, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-SEA1AMH-B0992E554B62B5BF6FABDDAF043AD9E9, Channels: 12, Time: 2022.03.11-08.57.05
+[2022.03.11-08.57.05:508][500]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:60671, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-SEA1AMH-B0992E554B62B5BF6FABDDAF043AD9E9
+[2022.03.11-08.57.05:509][500]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2022.03.11-08.57.05:509][500]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2022.03.11-08.57.05:509][500]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-08.57.05:518][500]LogSlate: Window 'MyBattleRoyale Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2022.03.11-08.57.05:551][500]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-08.57.05:582][500]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.11-08.57.05:582][500]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2022.03.11-08.57.05:607][500]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:DESKTOP-SEA1AMH-B0992E554B62B5BF6FABDDAF043AD9E9
+[2022.03.11-08.57.05:607][500]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:DESKTOP-SEA1AMH-B0992E554B62B5BF6FABDDAF043AD9E9, Channels: 2, Time: 2022.03.11-08.57.05
+[2022.03.11-08.57.05:607][500]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:DESKTOP-SEA1AMH-B0992E554B62B5BF6FABDDAF043AD9E9
+[2022.03.11-08.57.05:609][500]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-08.57.05:610][500]LogExit: GameNetDriver None shut down
+[2022.03.11-08.57.05:632][501]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.03.11-08.57.05:632][501]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.03.11-08.57.16:013][732]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.03.11-08.57.22:847][538]LogEditorActor: Deleted Actor: FirstPersonCharacter_C
+[2022.03.11-08.57.22:874][538]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2022.03.11-08.57.27:185][ 55]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.11-08.57.27:195][ 55]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2022.03.11-08.57.27:195][ 55]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.11-08.57.27:195][ 55]PIE: New page: PIE session: FirstPersonExampleMap (11-Mar-2022 7:57:27 pm)
+[2022.03.11-08.57.27:195][ 55]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.11-08.57.27:202][ 55]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006819s)
+[2022.03.11-08.57.27:202][ 55]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.11-08.57.27:203][ 55]LogPlayLevel: PIE: World Init took: (0.000729s)
+[2022.03.11-08.57.27:203][ 55]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.007706s)
+[2022.03.11-08.57.27:253][ 55]LogInit: XAudio2 using 'Headset Earphone (Jabra EVOLVE LINK MS)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2022.03.11-08.57.27:266][ 55]LogInit: FAudioDevice initialized.
+[2022.03.11-08.57.27:296][ 55]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.11-08.57.27:297][ 55]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.03.11-14.27.27
+[2022.03.11-08.57.27:297][ 55]LogWorld: Bringing up level for play took: 0.000910
+[2022.03.11-08.57.27:311][ 55]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.066
+[2022.03.11-08.57.27:311][ 55]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2022.03.11-08.57.31:695][579]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2022.03.11-08.57.31:695][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-08.57.31:731][579]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.11-08.57.31:731][579]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2022.03.11-08.57.31:758][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-08.57.31:797][583]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.03.11-08.58.00:297][840]LogSavePackage: Moving '../../../../UnrealProject/MyBattleRoyale/Saved/FirstPersonExampleMap_Auto1C01148F746EF5395B32EAFAA347219DD.tmp' to '../../../../UnrealProject/MyBattleRoyale/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2022.03.11-08.58.00:299][840]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.195
+[2022.03.11-08.58.00:299][840]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.195
+[2022.03.11-08.58.15:081][885]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.03.11-08.58.36:385][395]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.03.11-08.58.36:835][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="../../../../UnrealProject/MyBattleRoyale/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2022.03.11-08.58.36:876][423]LogSavePackage: Moving '../../../../UnrealProject/MyBattleRoyale/Saved/FirstPersonCharacter41C4A52D443E2AB6AA9A02B6A00A33E3.tmp' to '../../../../UnrealProject/MyBattleRoyale/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2022.03.11-08.59.02:760][858]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.11-08.59.02:770][858]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2022.03.11-08.59.02:770][858]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.11-08.59.02:770][858]PIE: New page: PIE session: FirstPersonExampleMap (11-Mar-2022 7:59:02 pm)
+[2022.03.11-08.59.02:770][858]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.11-08.59.02:778][858]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007734s)
+[2022.03.11-08.59.02:778][858]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.11-08.59.02:778][858]LogPlayLevel: PIE: World Init took: (0.000680s)
+[2022.03.11-08.59.02:779][858]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.008572s)
+[2022.03.11-08.59.02:829][858]LogInit: XAudio2 using 'Headset Earphone (Jabra EVOLVE LINK MS)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2022.03.11-08.59.02:843][858]LogInit: FAudioDevice initialized.
+[2022.03.11-08.59.02:871][858]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.11-08.59.02:872][858]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.03.11-14.29.02
+[2022.03.11-08.59.02:873][858]LogWorld: Bringing up level for play took: 0.000893
+[2022.03.11-08.59.02:886][858]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.491
+[2022.03.11-08.59.02:886][858]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2022.03.11-08.59.06:245][259]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2022.03.11-08.59.06:245][259]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-08.59.06:281][259]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.11-08.59.06:281][259]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2022.03.11-08.59.06:308][259]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-08.59.06:347][261]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.03.11-08.59.07:698][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.03.11-09.00.35:669][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.03.11-09.00.43:439][941]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.03.11-09.00.43:875][967]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="../../../../UnrealProject/MyBattleRoyale/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2022.03.11-09.00.43:916][967]LogSavePackage: Moving '../../../../UnrealProject/MyBattleRoyale/Saved/FirstPersonCharacterA520B9B94FFC8CA7E527F284AE7A7BA4.tmp' to '../../../../UnrealProject/MyBattleRoyale/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2022.03.11-09.02.08:888][105]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.03.11-09.02.09:366][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="../../../../UnrealProject/MyBattleRoyale/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2022.03.11-09.02.09:409][133]LogSavePackage: Moving '../../../../UnrealProject/MyBattleRoyale/Saved/FirstPersonCharacter3ECC371146D1E85F84260F863C862F6E.tmp' to '../../../../UnrealProject/MyBattleRoyale/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2022.03.11-09.02.14:847][628]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.03.11-09.02.15:320][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="../../../../UnrealProject/MyBattleRoyale/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2022.03.11-09.02.15:363][656]LogSavePackage: Moving '../../../../UnrealProject/MyBattleRoyale/Saved/FirstPersonCharacter885BB7194E27F0B8647C40B33CAF120E.tmp' to '../../../../UnrealProject/MyBattleRoyale/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2022.03.11-09.02.35:179][534]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin
+[2022.03.11-09.02.35:207][534]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2022.03.11-09.02.35:385][534]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.03.11-09.02.35:391][534]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2022.03.11-09.02.35:420][534]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2022.03.11-09.02.35:664][534]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2022.03.11-09.02.35:667][535]LogRenderer: Reallocating scene render targets to support 1616x1248 Format 10 NumSamples 1 (Frame:1).
+[2022.03.11-09.02.41:995][759]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2022.03.11-09.02.41:999][759]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.03.11-09.02.42:012][759]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2022.03.11-09.03.38:948][783]LogSavePackage: Moving '../../../../UnrealProject/MyBattleRoyale/Saved/UE4_Mannequin_SkeletonA8807DC843749840EC6AA3BE922EDAB8.tmp' to '../../../../UnrealProject/MyBattleRoyale/Content/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2022.03.11-09.03.53:662][200]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.11-09.04.09:480][925]LogSavePackage: Moving '../../../../UnrealProject/MyBattleRoyale/Saved/UE4_Mannequin_Skeleton0B7758C94109A124993CA2BE5C7027C7.tmp' to '../../../../UnrealProject/MyBattleRoyale/Content/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2022.03.11-09.04.42:937][535]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.03.11-09.04.47:697][105]LogSavePackage: Moving '../../../../UnrealProject/MyBattleRoyale/Saved/UE4_Mannequin_Skeleton14E6DE2A4069FDCB9E4B5B894E104BD8.tmp' to '../../../../UnrealProject/MyBattleRoyale/Content/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2022.03.11-09.04.59:797][545]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.03.11-09.05.35:588][767]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2022.03.11-09.05.35:588][767]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.11-09.05.35:588][767]PIE: New page: PIE session: FirstPersonExampleMap (11-Mar-2022 8:05:35 pm)
+[2022.03.11-09.05.35:588][767]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_1_FirstPersonExampleMap
+[2022.03.11-09.05.35:597][767]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008278s)
+[2022.03.11-09.05.35:597][767]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.11-09.05.35:597][767]LogPlayLevel: PIE: World Init took: (0.000815s)
+[2022.03.11-09.05.35:597][767]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_1_FirstPersonExampleMap.FirstPersonExampleMap (0.009258s)
+[2022.03.11-09.05.35:649][767]LogInit: XAudio2 using 'Headset Earphone (Jabra EVOLVE LINK MS)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2022.03.11-09.05.35:662][767]LogInit: FAudioDevice initialized.
+[2022.03.11-09.05.35:667][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-09.05.35:699][767]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.11-09.05.35:700][767]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_1_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.03.11-14.35.35
+[2022.03.11-09.05.35:700][767]LogWorld: Bringing up level for play took: 0.001041
+[2022.03.11-09.05.35:714][767]LogTemp: Display: ParseSettings for GameNetDriver
+[2022.03.11-09.05.35:714][767]LogTemp: Display: ParseSettings for IpNetDriver_2
+[2022.03.11-09.05.35:714][767]LogTemp: Display: ParseSettings for GameNetDriver
+[2022.03.11-09.05.35:714][767]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2022.03.11-09.05.35:714][767]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2022.03.11-09.05.35:714][767]LogInit: WinSock: Socket queue 131072 / 131072
+[2022.03.11-09.05.35:714][767]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.03.11-09.05.35:714][767]LogNet: GameNetDriver IpNetDriver_2 IpNetDriver listening on port 17777
+[2022.03.11-09.05.35:717][767]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_1_FirstPersonExampleMap 0.339
+[2022.03.11-09.05.35:720][767]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.03.11-09.05.35:724][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-09.05.35:754][767]LogNet: Browse: 127.0.0.1:17777//Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2022.03.11-09.05.35:754][767]LogTemp: Display: ParseSettings for GameNetDriver
+[2022.03.11-09.05.35:754][767]LogTemp: Display: ParseSettings for IpNetDriver_3
+[2022.03.11-09.05.35:754][767]LogTemp: Display: ParseSettings for PendingNetDriver
+[2022.03.11-09.05.35:754][767]LogInit: WinSock: Socket queue 32768 / 32768
+[2022.03.11-09.05.35:754][767]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.03.11-09.05.35:754][767]LogNet: Game client on port 17777, rate 10000
+[2022.03.11-09.05.35:757][767]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/FirstPersonExampleMap 0.38
+[2022.03.11-09.05.35:760][767]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2022.03.11-09.05.35:760][767]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:53117
+[2022.03.11-09.05.35:760][767]LogHandshake: SendConnectChallenge. Timestamp: 0.008333, Cookie: 208022127059090016155136013157068174194003141030169234132035
+[2022.03.11-09.05.35:761][767]LogHandshake: SendChallengeResponse. Timestamp: 0.008333, Cookie: 208022127059090016155136013157068174194003141030169234132035
+[2022.03.11-09.05.35:860][768]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:53117
+[2022.03.11-09.05.35:860][768]LogHandshake: SendChallengeAck. InCookie: 208022127059090016155136013157068174194003141030169234132035
+[2022.03.11-09.05.35:860][768]LogNet: Server accepting post-challenge connection from: 127.0.0.1:53117
+[2022.03.11-09.05.35:861][768]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.03.11-09.05.35:861][768]LogNet: NotifyAcceptedConnection: Name: FirstPersonExampleMap, TimeStamp: 03/11/22 14:35:35, [UNetConnection] RemoteAddr: 127.0.0.1:53117, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.03.11-09.05.35:861][768]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:53117, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.03.11-09.05.35:862][768]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: PendingNetDriver IpNetDriver_3, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.03.11-09.05.35:869][769]LogNet: NotifyAcceptingChannel Control 0 server World /Game/FirstPersonBP/Maps/UEDPIE_1_FirstPersonExampleMap.FirstPersonExampleMap: Accepted
+[2022.03.11-09.05.35:869][769]LogNet: Remote platform little endian=1
+[2022.03.11-09.05.35:869][769]LogNet: This platform little endian=1
+[2022.03.11-09.05.35:887][770]LogNet: Login request: /Game/FirstPersonBP/Maps/FirstPersonExampleMap?Name=DESKTOP-SEA1AMH-894F86C845BB8BAE137D21BA0AFA849C userId: NULL:DESKTOP-SEA1AMH-894F86C845BB8BAE137D21BA0AFA849C platform: NULL
+[2022.03.11-09.05.35:888][770]LogNet: Welcomed by server (Level: /Game/FirstPersonBP/Maps/UEDPIE_1_FirstPersonExampleMap, Game: /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C)
+[2022.03.11-09.05.35:888][770]LogLoad: LoadMap: 127.0.0.1:17777//Game/FirstPersonBP/Maps/UEDPIE_1_FirstPersonExampleMap?game=/Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C
+[2022.03.11-09.05.35:925][770]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.11-09.05.35:925][770]LogTemp: Display: ParseSettings for GameNetDriver
+[2022.03.11-09.05.35:928][770]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_2_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.03.11-14.35.35
+[2022.03.11-09.05.35:928][770]LogWorld: Bringing up level for play took: 0.003094
+[2022.03.11-09.05.35:929][770]LogLoad: Took 0.040321 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_1_FirstPersonExampleMap)
+[2022.03.11-09.05.35:942][771]LogNet: Client netspeed is 10000
+[2022.03.11-09.05.35:942][771]LogNet: Join request: /Game/FirstPersonBP/Maps/FirstPersonExampleMap?Name=DESKTOP-SEA1AMH-894F86C845BB8BAE137D21BA0AFA849C?SplitscreenCount=1
+[2022.03.11-09.05.35:942][771]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.03.11-09.05.35:945][771]LogNet: Join succeeded: DESKTOP-SEA1AMH-894F
+[2022.03.11-09.05.35:992][776]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.03.11-09.05.36:017][779]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.03.11-09.05.49:078][267]LogNet: World NetDriver shutdown IpNetDriver_2 [GameNetDriver]
+[2022.03.11-09.05.49:078][267]LogNet: DestroyNamedNetDriver IpNetDriver_2 [GameNetDriver]
+[2022.03.11-09.05.49:079][267]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:53117, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-SEA1AMH-894F86C845BB8BAE137D21BA0AFA849C
+[2022.03.11-09.05.49:079][267]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:53117, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-SEA1AMH-894F86C845BB8BAE137D21BA0AFA849C, Channels: 11, Time: 2022.03.11-09.05.49
+[2022.03.11-09.05.49:079][267]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:53117, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-SEA1AMH-894F86C845BB8BAE137D21BA0AFA849C
+[2022.03.11-09.05.49:079][267]LogExit: GameNetDriver IpNetDriver_2 shut down
+[2022.03.11-09.05.49:079][267]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2022.03.11-09.05.49:079][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-09.05.49:089][267]LogSlate: Window 'MyBattleRoyale Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2022.03.11-09.05.49:115][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-09.05.49:120][267]LogSlate: Window 'MyBattleRoyale Game Preview Server (64-bit/PCD3D_SM5)' being destroyed
+[2022.03.11-09.05.49:148][267]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.11-09.05.49:149][267]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2022.03.11-09.05.49:173][267]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:DESKTOP-SEA1AMH-894F86C845BB8BAE137D21BA0AFA849C
+[2022.03.11-09.05.49:174][267]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:DESKTOP-SEA1AMH-894F86C845BB8BAE137D21BA0AFA849C, Channels: 2, Time: 2022.03.11-09.05.49
+[2022.03.11-09.05.49:174][267]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:DESKTOP-SEA1AMH-894F86C845BB8BAE137D21BA0AFA849C
+[2022.03.11-09.05.49:177][267]LogExit: GameNetDriver None shut down
+[2022.03.11-09.05.49:193][268]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.03.11-09.05.49:193][268]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.03.11-10.17.34:564][799]LogSlate: Window 'Save Content' being destroyed
+[2022.03.11-10.17.34:820][799]LogSavePackage: Moving '../../../../UnrealProject/MyBattleRoyale/Saved/FirstPersonExampleMap1CE00D3540C13C533AF7B9AE1676D5A8.tmp' to '../../../../UnrealProject/MyBattleRoyale/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.03.11-10.17.34:847][799]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.273
+[2022.03.11-10.17.35:212][799]LogSlate: Window 'MyBattleRoyale - Unreal Editor' being destroyed
+[2022.03.11-10.17.35:423][800]Cmd: QUIT_EDITOR
+[2022.03.11-10.17.35:915][800]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2022.03.11-10.17.35:927][800]LogExit: Preparing to exit.
+[2022.03.11-10.17.36:527][800]LogExit: Editor shut down
+[2022.03.11-10.17.36:528][800]LogExit: Transaction tracking system shut down
+[2022.03.11-10.17.36:805][800]LogExit: Object subsystem successfully closed.
+[2022.03.11-10.17.36:834][800]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.03.11-10.17.36:838][800]LogD3D11RHI: Shutdown
+[2022.03.11-10.17.36:838][800]LogD3D11RHI: CleanupD3DDevice
+[2022.03.11-10.17.36:844][800]LogD3D11RHI: ~FD3D11DynamicRHI
+[2022.03.11-10.17.36:876][800]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (636)
+[2022.03.11-10.17.36:876][800]LogModuleManager: Shutting down and abandoning module PinnedCommandList (634)
+[2022.03.11-10.17.36:876][800]LogModuleManager: Shutting down and abandoning module SkeletonEditor (632)
+[2022.03.11-10.17.36:876][800]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (628)
+[2022.03.11-10.17.36:876][800]LogModuleManager: Shutting down and abandoning module Voice (626)
+[2022.03.11-10.17.36:876][800]LogModuleManager: Shutting down and abandoning module BlueprintGraph (624)
+[2022.03.11-10.17.36:876][800]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (622)
+[2022.03.11-10.17.36:876][800]LogModuleManager: Shutting down and abandoning module SceneOutliner (620)
+[2022.03.11-10.17.36:876][800]LogModuleManager: Shutting down and abandoning module AddContentDialog (618)
+[2022.03.11-10.17.36:877][800]LogModuleManager: Shutting down and abandoning module WidgetCarousel (617)
+[2022.03.11-10.17.36:877][800]LogModuleManager: Shutting down and abandoning module EditorWidgets (614)
+[2022.03.11-10.17.36:878][800]LogModuleManager: Shutting down and abandoning module CollectionManager (612)
+[2022.03.11-10.17.36:878][800]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2022.03.11-10.17.36:878][800]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2022.03.11-10.17.36:878][800]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2022.03.11-10.17.36:879][800]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2022.03.11-10.17.36:879][800]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2022.03.11-10.17.36:879][800]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2022.03.11-10.17.36:879][800]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2022.03.11-10.17.36:879][800]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2022.03.11-10.17.36:879][800]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2022.03.11-10.17.36:879][800]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2022.03.11-10.17.36:879][800]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2022.03.11-10.17.36:879][800]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2022.03.11-10.17.36:879][800]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2022.03.11-10.17.36:879][800]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2022.03.11-10.17.36:879][800]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2022.03.11-10.17.36:880][800]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2022.03.11-10.17.36:880][800]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2022.03.11-10.17.36:880][800]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2022.03.11-10.17.36:880][800]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2022.03.11-10.17.36:880][800]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2022.03.11-10.17.36:880][800]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2022.03.11-10.17.36:880][800]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2022.03.11-10.17.36:880][800]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2022.03.11-10.17.36:881][800]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2022.03.11-10.17.36:881][800]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2022.03.11-10.17.36:881][800]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2022.03.11-10.17.36:881][800]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2022.03.11-10.17.36:881][800]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2022.03.11-10.17.36:881][800]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2022.03.11-10.17.36:881][800]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2022.03.11-10.17.36:881][800]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2022.03.11-10.17.36:881][800]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2022.03.11-10.17.36:881][800]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2022.03.11-10.17.36:881][800]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2022.03.11-10.17.36:881][800]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2022.03.11-10.17.36:881][800]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2022.03.11-10.17.36:881][800]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2022.03.11-10.17.36:881][800]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2022.03.11-10.17.36:881][800]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2022.03.11-10.17.36:881][800]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2022.03.11-10.17.36:881][800]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2022.03.11-10.17.36:881][800]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2022.03.11-10.17.36:881][800]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2022.03.11-10.17.36:881][800]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2022.03.11-10.17.36:882][800]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2022.03.11-10.17.36:882][800]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2022.03.11-10.17.36:882][800]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2022.03.11-10.17.36:882][800]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2022.03.11-10.17.36:882][800]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2022.03.11-10.17.36:882][800]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2022.03.11-10.17.37:892][800]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2022.03.11-10.17.37:892][800]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2022.03.11-10.17.37:892][800]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2022.03.11-10.17.37:892][800]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2022.03.11-10.17.37:892][800]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2022.03.11-10.17.37:892][800]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2022.03.11-10.17.37:894][800]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2022.03.11-10.17.37:894][800]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2022.03.11-10.17.37:894][800]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2022.03.11-10.17.37:894][800]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2022.03.11-10.17.37:894][800]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2022.03.11-10.17.37:894][800]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2022.03.11-10.17.37:894][800]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2022.03.11-10.17.37:894][800]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2022.03.11-10.17.37:894][800]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2022.03.11-10.17.37:894][800]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2022.03.11-10.17.37:894][800]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2022.03.11-10.17.37:894][800]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2022.03.11-10.17.37:894][800]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2022.03.11-10.17.37:896][800]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2022.03.11-10.17.37:896][800]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2022.03.11-10.17.37:896][800]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2022.03.11-10.17.37:896][800]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2022.03.11-10.17.37:939][800]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2022.03.11-10.17.37:939][800]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2022.03.11-10.17.37:939][800]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2022.03.11-10.17.37:939][800]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2022.03.11-10.17.37:939][800]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2022.03.11-10.17.37:939][800]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2022.03.11-10.17.37:939][800]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2022.03.11-10.17.37:939][800]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2022.03.11-10.17.37:939][800]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2022.03.11-10.17.37:939][800]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2022.03.11-10.17.37:947][800]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2022.03.11-10.17.37:947][800]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2022.03.11-10.17.37:949][800]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2022.03.11-10.17.37:949][800]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2022.03.11-10.17.37:949][800]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2022.03.11-10.17.37:949][800]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2022.03.11-10.17.37:949][800]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2022.03.11-10.17.37:949][800]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2022.03.11-10.17.37:949][800]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2022.03.11-10.17.37:949][800]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2022.03.11-10.17.37:949][800]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2022.03.11-10.17.37:950][800]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2022.03.11-10.17.37:950][800]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2022.03.11-10.17.37:950][800]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2022.03.11-10.17.37:950][800]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2022.03.11-10.17.37:950][800]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2022.03.11-10.17.37:950][800]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2022.03.11-10.17.37:950][800]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2022.03.11-10.17.37:950][800]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2022.03.11-10.17.37:950][800]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2022.03.11-10.17.37:950][800]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2022.03.11-10.17.37:950][800]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2022.03.11-10.17.37:952][800]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2022.03.11-10.17.37:967][800]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2022.03.11-10.17.37:967][800]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2022.03.11-10.17.37:967][800]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2022.03.11-10.17.37:967][800]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2022.03.11-10.17.37:967][800]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2022.03.11-10.17.37:967][800]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2022.03.11-10.17.37:967][800]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2022.03.11-10.17.37:967][800]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2022.03.11-10.17.37:967][800]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2022.03.11-10.17.37:967][800]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2022.03.11-10.17.37:967][800]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2022.03.11-10.17.37:967][800]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2022.03.11-10.17.37:967][800]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2022.03.11-10.17.37:967][800]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2022.03.11-10.17.37:967][800]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2022.03.11-10.17.37:967][800]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2022.03.11-10.17.37:967][800]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2022.03.11-10.17.37:970][800]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2022.03.11-10.17.37:970][800]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2022.03.11-10.17.37:970][800]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2022.03.11-10.17.37:970][800]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2022.03.11-10.17.37:971][800]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2022.03.11-10.17.37:971][800]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2022.03.11-10.17.37:971][800]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2022.03.11-10.17.37:971][800]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2022.03.11-10.17.37:971][800]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2022.03.11-10.17.37:971][800]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2022.03.11-10.17.37:971][800]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2022.03.11-10.17.37:971][800]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2022.03.11-10.17.37:971][800]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2022.03.11-10.17.37:971][800]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2022.03.11-10.17.37:971][800]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2022.03.11-10.17.37:972][800]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2022.03.11-10.17.37:972][800]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2022.03.11-10.17.37:972][800]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2022.03.11-10.17.37:972][800]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2022.03.11-10.17.37:972][800]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2022.03.11-10.17.37:972][800]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2022.03.11-10.17.37:972][800]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2022.03.11-10.17.37:972][800]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2022.03.11-10.17.37:972][800]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2022.03.11-10.17.37:972][800]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2022.03.11-10.17.37:972][800]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2022.03.11-10.17.37:972][800]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2022.03.11-10.17.37:972][800]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2022.03.11-10.17.37:972][800]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2022.03.11-10.17.37:972][800]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2022.03.11-10.17.37:972][800]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2022.03.11-10.17.37:972][800]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2022.03.11-10.17.37:972][800]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2022.03.11-10.17.37:972][800]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2022.03.11-10.17.37:973][800]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2022.03.11-10.17.37:973][800]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2022.03.11-10.17.37:973][800]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2022.03.11-10.17.37:973][800]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2022.03.11-10.17.37:973][800]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2022.03.11-10.17.37:973][800]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2022.03.11-10.17.37:973][800]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2022.03.11-10.17.37:973][800]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2022.03.11-10.17.38:074][800]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2022.03.11-10.17.38:174][800]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2022.03.11-10.17.38:174][800]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2022.03.11-10.17.38:174][800]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2022.03.11-10.17.38:174][800]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2022.03.11-10.17.38:174][800]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2022.03.11-10.17.38:174][800]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2022.03.11-10.17.38:174][800]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2022.03.11-10.17.38:175][800]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2022.03.11-10.17.38:175][800]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2022.03.11-10.17.38:175][800]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2022.03.11-10.17.38:176][800]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2022.03.11-10.17.38:176][800]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2022.03.11-10.17.38:177][800]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2022.03.11-10.17.38:177][800]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2022.03.11-10.17.38:177][800]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2022.03.11-10.17.38:177][800]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2022.03.11-10.17.38:177][800]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2022.03.11-10.17.38:177][800]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2022.03.11-10.17.38:177][800]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2022.03.11-10.17.38:179][800]LogModuleManager: Shutting down and abandoning module Media (241)
+[2022.03.11-10.17.38:185][800]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2022.03.11-10.17.38:185][800]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2022.03.11-10.17.38:185][800]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2022.03.11-10.17.38:185][800]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2022.03.11-10.17.38:185][800]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2022.03.11-10.17.38:185][800]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2022.03.11-10.17.38:185][800]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2022.03.11-10.17.38:186][800]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2022.03.11-10.17.38:186][800]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2022.03.11-10.17.38:186][800]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2022.03.11-10.17.38:186][800]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2022.03.11-10.17.38:186][800]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2022.03.11-10.17.38:186][800]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2022.03.11-10.17.38:186][800]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2022.03.11-10.17.38:186][800]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2022.03.11-10.17.38:186][800]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2022.03.11-10.17.38:187][800]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2022.03.11-10.17.38:187][800]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2022.03.11-10.17.38:188][800]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2022.03.11-10.17.38:188][800]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2022.03.11-10.17.38:190][800]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2022.03.11-10.17.38:190][800]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2022.03.11-10.17.38:190][800]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2022.03.11-10.17.38:190][800]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2022.03.11-10.17.38:190][800]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2022.03.11-10.17.38:190][800]LogModuleManager: Shutting down and abandoning module Core (186)
+[2022.03.11-10.17.38:190][800]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2022.03.11-10.17.38:190][800]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2022.03.11-10.17.38:190][800]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2022.03.11-10.17.38:190][800]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2022.03.11-10.17.38:190][800]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2022.03.11-10.17.38:190][800]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2022.03.11-10.17.38:190][800]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2022.03.11-10.17.38:191][800]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2022.03.11-10.17.38:191][800]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2022.03.11-10.17.38:191][800]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2022.03.11-10.17.38:191][800]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2022.03.11-10.17.38:191][800]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2022.03.11-10.17.38:290][800]LogDerivedDataCache: Shutdown
+[2022.03.11-10.17.38:290][800]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2022.03.11-10.17.38:290][800]LogXGEController: Cleaning working directory: C:/Users/atulk/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2022.03.11-10.17.38:291][800]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2022.03.11-10.17.38:291][800]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2022.03.11-10.17.38:291][800]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2022.03.11-10.17.38:291][800]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2022.03.11-10.17.38:292][800]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2022.03.11-10.17.38:292][800]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2022.03.11-10.17.38:292][800]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2022.03.11-10.17.38:292][800]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2022.03.11-10.17.38:292][800]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2022.03.11-10.17.38:292][800]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2022.03.11-10.17.38:292][800]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2022.03.11-10.17.38:292][800]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2022.03.11-10.17.38:292][800]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2022.03.11-10.17.38:292][800]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2022.03.11-10.17.38:292][800]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2022.03.11-10.17.38:292][800]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2022.03.11-10.17.38:293][800]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2022.03.11-10.17.38:297][800]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2022.03.11-10.17.38:297][800]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2022.03.11-10.17.38:297][800]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2022.03.11-10.17.38:297][800]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2022.03.11-10.17.38:297][800]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2022.03.11-10.17.38:300][800]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2022.03.11-10.17.38:300][800]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2022.03.11-10.17.38:302][800]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2022.03.11-10.17.38:302][800]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2022.03.11-10.17.38:325][800]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2022.03.11-10.17.38:325][800]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2022.03.11-10.17.38:325][800]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2022.03.11-10.17.38:325][800]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2022.03.11-10.17.38:325][800]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2022.03.11-10.17.38:326][800]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2022.03.11-10.17.38:326][800]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2022.03.11-10.17.38:326][800]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2022.03.11-10.17.38:326][800]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2022.03.11-10.17.38:326][800]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2022.03.11-10.17.38:326][800]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2022.03.11-10.17.38:326][800]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2022.03.11-10.17.38:326][800]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2022.03.11-10.17.38:326][800]LogHMD: Freeing OpenVRDLLHandle.
+[2022.03.11-10.17.38:326][800]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2022.03.11-10.17.38:326][800]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2022.03.11-10.17.38:326][800]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2022.03.11-10.17.38:326][800]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2022.03.11-10.17.38:326][800]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2022.03.11-10.17.38:327][800]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2022.03.11-10.17.38:327][800]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2022.03.11-10.17.38:360][800]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2022.03.11-10.17.38:360][800]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.03.11-10.17.38:360][800]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6E3F779A-4C4D-3602-B90E-F3A0F7F0C947%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=3d0e4f394f89d7b87f0ac3a30e8e98f4%7C2a676511ffc2492b9f0a825cbdeaa93a%7C8774b242-3108-4b6d-9e13-9a44afb4b01d&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2022.03.11-10.17.38:393][800]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2022.03.11-10.17.38:394][800]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2022.03.11-10.17.38:394][800]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2022.03.11-10.17.38:394][800]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2022.03.11-10.17.38:394][800]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2022.03.11-10.17.38:394][800]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2022.03.11-10.17.38:395][800]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2022.03.11-10.17.38:395][800]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2022.03.11-10.17.38:395][800]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.03.11-10.17.38:395][800]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2022.03.11-10.17.38:395][800]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2022.03.11-10.17.38:396][800]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2022.03.11-10.17.38:396][800]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2022.03.11-10.17.38:396][800]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2022.03.11-10.17.38:396][800]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2022.03.11-10.17.38:396][800]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2022.03.11-10.17.38:396][800]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2022.03.11-10.17.38:396][800]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2022.03.11-10.17.38:397][800]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2022.03.11-10.17.38:398][800]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2022.03.11-10.17.38:398][800]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2022.03.11-10.17.38:398][800]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2022.03.11-10.17.38:398][800]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2022.03.11-10.17.38:398][800]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2022.03.11-10.17.38:398][800]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2022.03.11-10.17.38:399][800]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2022.03.11-10.17.38:399][800]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2022.03.11-10.17.38:399][800]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2022.03.11-10.17.38:399][800]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2022.03.11-10.17.38:408][800]LogExit: Exiting.
+[2022.03.11-10.17.38:419][800]Log file closed, 03/11/22 15:47:38
